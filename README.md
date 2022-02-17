@@ -2,8 +2,7 @@
 
 Meu nome é Carlos Eduardo. 
 
-Curso Engenharia Ambiental e desenvolvo projetos como programador Front-End
-e algumas atividade da faculdade em Python 👨‍💻.
+Curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos como programador Front-End 👨‍💻.
 
 Me alcancem!
 
