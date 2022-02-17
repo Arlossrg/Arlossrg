@@ -2,11 +2,12 @@
 
 Meu nome é Carlos Eduardo. </br>
 
-----
 Sou graduando em Análise e Desenvolvimento de Sistemas e desenvolvo projetos como programador Front-End 👨‍💻.
 
 ----
 ### Stacks :computer:
+
+Estou aprendo as seguintes tecnologias:
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
