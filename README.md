@@ -6,7 +6,6 @@ Sou graduando em Análise e Desenvolvimento de Sistemas e desenvolvo projetos co
 
 Sou completamente apaixonado pela área de tecnologia e por tudo que à engloba, em especial, desenvolvimento web.
 
-----
 ## 📚 Aprendendo
  
 <div style="display: inline_block">
@@ -16,13 +15,11 @@ Sou completamente apaixonado pela área de tecnologia e por tudo que à engloba,
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-----
 ## 📞 Me alcancem
 
 [
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arlossrg/)](https://www.linkedin.com/in/arlossrg/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/melo_carloss/)](https://www.instagram.com/melo_carloss/) 
 
-----
 
 <div align="center">
   <a href="https://github.com/Arlossrg">
