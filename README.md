@@ -4,8 +4,6 @@ Meu nome é Carlos Eduardo.
 
 Curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos como programador Front-End 👨‍💻.
 
-![ imagem ](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![ imagem ](https://img.shields.io/badge/ CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![ imagem ](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![ imagem ](https://img.shields.io/badge/react -61DAFB?style=for-the-badge&logo=react&logoColor=333)
-
 Me alcancem!
 
 [
