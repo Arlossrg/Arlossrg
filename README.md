@@ -4,7 +4,7 @@ Meu nome é Carlos Eduardo. </br>
 
 Sou graduando em Análise e Desenvolvimento de Sistemas e desenvolvo projetos como programador Front-End 👨‍💻.
 
-Sou completamente apaixonado pela área de tecnlogia e por tudo que à engloba, em especial, desenvolvimento web.
+Sou completamente apaixonado pela área de tecnologia e por tudo que à engloba, em especial, desenvolvimento web.
 
 ----
 ### 📚 Aprendendo
