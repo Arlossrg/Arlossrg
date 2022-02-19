@@ -29,10 +29,8 @@
 </br></br>
 
 ## Minhas Atividades:
-<div align="center">
-  <a href="https://github.com/arlossrg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arlossrg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlossrg&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
+  
+[![arlossrg github stats](https://github-readme-stats.vercel.app/api?username=arlossrg&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlossrg&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+ 
 ----
