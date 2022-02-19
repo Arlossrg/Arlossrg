@@ -2,14 +2,14 @@
 
 - Meu nome é Carlos Eduardo. </br>
 
-- Sou graduando em Análise e Desenvolvimento de Sistemas 
+- Sou graduando em Análise e Desenvolvimento de Sistemas e Engenharia Ambiental pela UFES.
 
 - Desenvolvo projetos como programador Front-End 👨‍💻.
 
 - Sou completamente apaixonado pela área de tecnologia e por tudo que à engloba, em especial, desenvolvimento web.
 </br></br>
 
-## 📚 Aprendendo:
+## 📚 Stacks:
  
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
